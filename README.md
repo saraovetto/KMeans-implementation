@@ -11,4 +11,3 @@ The convergence criteria used in this implementation is the almost-equality of t
 
 The two different versions are compared in terms of execution time and their performance is tested when changes in vector size (point dimensions), number of vectors (sample size) and number of clusters occurr. 
 
-vignette link: https://htmlpreview.github.io/?https://github.com/saraovetto/KMeans-implementation/blob/main/Kmeans.html
